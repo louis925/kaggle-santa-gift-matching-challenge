@@ -1,0 +1,1 @@
+Download and upzip "gift_goodkids_v2.csv", "child_wishlist_v2.csv", and "sample_submission_random_v2.csv" to here from Kaggle.
